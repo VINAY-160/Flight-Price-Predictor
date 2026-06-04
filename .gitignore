@@ -33,6 +33,4 @@ env/
 # Environment Variables
 .env
 
-flight_price_model.pklflight_price_model.pkl
-flight_price_model.pkl
 flight_price_model.pkl
