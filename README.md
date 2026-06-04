@@ -157,10 +157,9 @@ Flight-Fare-Predictor/
 ├── .gitignore
 │
 ├── screenshots/
-│   ├── home_page.png
-│   └── prediction_page.png
-│
-└── models/
+   ├── home_page.png
+   └── prediction_page.png
+
 ```
 
 ---
