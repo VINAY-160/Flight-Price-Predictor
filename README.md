@@ -4,7 +4,7 @@ A complete end-to-end Machine Learning project that predicts domestic flight tic
 
 ## 🚀 Live Demo
 
-**Streamlit App:** https://flight-price-predictor-domastic.streamlit.app/
+**Streamlit App:** https://flight-price-predictor-n7sm5hnqceuignbyeyjyny.streamlit.app/
 
 ---
 
